@@ -7,8 +7,8 @@ This reposiory holds the test data for
 
 There are 9 datasets: *wap*, *la1s*, *la2s*, *re1*, *fbis*, *gisette*,
 *newsgroups*, *tis*, and *mnist*.  All are seperated into two parts,
-one for training (***.data**), and the other for testing (***.test**).
-***.names** are associated variable (column) names for corresponding
+one for training (_*.data_), and the other for testing (_*.test_).
+_*.names_ are associated variable (column) names for corresponding
 datasets.
 
 |Dataset    | Observations (Training)| Observations (Testing)|   Vars| Obs/Vars (Train)| Classes| Size (MB)|
