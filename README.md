@@ -27,8 +27,8 @@ datasets.
 
 All the data are collected from the Internet:
 
-* *fbis*, *la1s*, *la2s*, *re1*, *wap* can be found at
-  [Karypis Lab](http://glaros.dtc.umn.edu/gkhome/fetch/sw/cluto/datasets.tar.gz).
+* *fbis*, *la1s*, *la2s*, *re1*, and *wap* can be found at [Karypis
+  Lab](http://glaros.dtc.umn.edu/gkhome/fetch/sw/cluto/datasets.tar.gz).
 
 * *gisette* can be found at
   [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/machine-learning-databases/gisette/GISETTE/).
