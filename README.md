@@ -23,8 +23,21 @@ datasets.
 |tis        |                   5,200|                  6,875|    927|                5.61|       2|       9.3|
 |mnist      |                  48,000|                 10,000|    780|               61.54|       2|      84.0|
 
+## Original Data ##
 
+All the data are collected from the Internet:
 
+* *fbis*, *la1s*, *la2s*, *re1*, *wap* can be found at
+  [Karypis Lab](http://glaros.dtc.umn.edu/gkhome/fetch/sw/cluto/datasets.tar.gz).
 
+* *gisette* can be found at
+  [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/machine-learning-databases/gisette/GISETTE/).
 
+* *newsgroups* can be found at
+  [20 Newsgroups by Jason Rennie](http://qwone.com/~jason/20Newsgroups/20news-bydate-matlab.tgz).
 
+* *tis* can be found at
+  [Guo-Zheng Li's Home Page](http://levis.tongji.edu.cn/gzli/data/TIS.zip).
+
+* *mnist* can be found at
+  [Data for MATLAB hackers by Sam Roweis](http://www.cs.nyu.edu/~roweis/data/mnist_all.mat).
